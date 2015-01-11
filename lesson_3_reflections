@@ -15,3 +15,7 @@ A branch creates a new line of commits from the master. Use this when you want t
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This allows us to know whether the remote has been update by somebody else.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be much harder without github. Have to use dropbox or email to collaborate.
