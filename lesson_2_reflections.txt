@@ -21,3 +21,7 @@ Helps you visually see all the different versions of the file, and how it differ
 What is the result of merging tow branches together? Why do we represent it in the diagram the way we do?
 
 It merges the changes made from two branches. But i couldn't get it to work because of merge conflicts...
+
+What are the pros and cons of Git's automatic merging vs always doing merges manually?
+
+Git's automatic merging might result in changes that we dont' want but is quicker. Manual merging ensures the changes we want are incorporated, but is slower.
