@@ -6,3 +6,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Other users might have made changes to your remote repo, and you might not want to pull these changes in your local repo.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A clone allows you to clone a repo onto you local machine. 
+A fork allows you clone a repo directly on github, but gives recognition to the person that you've forked from. Use this when you want to create your own version of someone else's work.
+A branch creates a new line of commits from the master. Use this when you want to create a new version of your own work.
