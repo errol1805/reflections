@@ -6,3 +6,18 @@ How is the staging area different from the working directory and the repository?
 
 The staging area allows you to only commit changes to specific files. This provides us with more flexibility.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Only add changes one at a time to the staging area and then commit them.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to try out different versions of a program which will have their own respective commits
+
+How do the diagrams help you visualize the branch structure?
+
+Helps you visually see all the different versions of the file, and how it differs from the master branch.
+
+What is the result of merging tow branches together? Why do we represent it in the diagram the way we do?
+
+It merges the changes made from two branches. But i couldn't get it to work because of merge conflicts...
